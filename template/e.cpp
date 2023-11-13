@@ -1,10 +1,11 @@
 #include <bits/stdc++.h>
 #define el "\n"
 #define int int64_t
+#define all(x) (x).begin(), (x).end()
 using namespace std;
 using iii = tuple<int, int, int>;
 using ii = pair<int, int>;
-    
+
 void solve(){
     
 }
